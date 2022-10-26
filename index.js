@@ -3,8 +3,6 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 
-
-
 app.listen(port , () => {
-    console.log('TechToor server is running on port', port);
+    console.log('TechToor server running on port', port);
 })
