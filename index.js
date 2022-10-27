@@ -40,18 +40,6 @@ app.get('/' , (req , res) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 app.listen(port , () => {
     console.log('TechToor server running on port', port);
 })
