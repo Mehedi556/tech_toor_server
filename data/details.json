@@ -3,36 +3,36 @@
       "id": "01",
       "picture": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
       "name": "JAVA",
-      "details": "Mollit ut occaecat Lorem in do sunt cillum. Consectetur est sit pariatur cupidatat irure ea mollit nisi id exercitation duis laboris. Nisi eiusmod duis in elit ipsum incididunt nostrud. Exercitation esse incididunt aliqua commodo dolore id labore cupidatat. Consequat laboris nulla non ad tempor amet laborum magna consequat cupidatat qui eu nulla. Non in anim qui labore cupidatat est magna fugiat proident laborum adipisicing cupidatat fugiat.\r\n"
+      "details": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.Java is Object Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types like int, char, etc."
     },
     {
       "id": "02",
       "picture": "https://www.datasciencecentral.com/wp-content/uploads/2021/10/9430449274-1280x720.png",
       "name": "PYTHON",
-      "details": "Aliquip non voluptate anim consequat. Dolore officia sunt tempor labore ad ex ullamco. Non ex fugiat non voluptate reprehenderit pariatur mollit exercitation sunt cupidatat consectetur enim. Nostrud id voluptate do laborum ex reprehenderit occaecat dolore non. Adipisicing sit cillum non veniam ea dolor consequat enim nisi est ex velit incididunt fugiat. Ullamco ad amet veniam duis irure sunt irure dolore.\r\n"
+      "details": "Python is a popular general-purpose programming language.It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners .Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python.Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java."
     },
     {
       "id": "03",
       "picture": "https://i0.wp.com/windtux.com/wp-content/uploads/2020/05/c-cplus-inseguros.png?fit=800%2C533&ssl=1",
       "name": "C++",
-      "details": "Velit labore nisi dolore velit sit aliquip. Tempor nisi non enim ad quis dolor et commodo est. Excepteur est laborum pariatur ex ea ad ullamco cillum officia reprehenderit duis nostrud anim nisi. Deserunt commodo reprehenderit laboris est anim qui magna laborum Lorem et. Aliquip eiusmod nisi non commodo non duis aliqua commodo incididunt elit et culpa exercitation. Consectetur eu incididunt deserunt nisi mollit magna magna ut elit. Officia cupidatat fugiat sunt anim.\r\n"
+      "details": "C++ is a general-purpose programming language and is widely used nowadays for competitive programming. It has imperative, object-oriented and generic programming features. C++ runs on lots of platforms like Windows, Linux, Unix, Mac etc.C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.Our C++ programming tutorial will guide you to learn C++ programming one step at a time."
     },
     {
       "id": "06",
       "picture": "https://bestprogrammer.ru/wp-content/uploads/2020/08/JavaScript-1.jpg",
       "name": "JavaScript",
-      "details": "Consequat ut dolor consequat ipsum veniam deserunt voluptate aliquip. Veniam ipsum reprehenderit est mollit culpa minim aliqua ipsum occaecat nulla aute sunt in duis. Et nulla occaecat mollit esse. Labore culpa labore commodo nisi tempor excepteur do quis enim irure qui aute magna.\r\n"
+      "details": "JavaScript is a powerful and flexible programming language.JavaScript is an object-oriented programming language. It used prototypes instead of classes. Objects are used to represent the real-world entity in the program. It can execute on a web browser that allows us to make interactive webpages such as popup menus, animations, form validation, etc.JavaScript has evolved a lot in the past decade. Our JavaScript tutorials will help you understand the core concepts of modern JavaScript, one step at a time."
     },
     {
       "id": "04",
       "picture": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
       "name": "SWIFT",
-      "details": "Fugiat consectetur consectetur ad reprehenderit nostrud mollit aliquip elit deserunt ea. Lorem excepteur magna cillum ad ullamco nulla amet eu ex id. Fugiat sunt velit sit dolore excepteur anim ut ipsum consequat reprehenderit enim irure exercitation qui.\r\n"
+      "details": "Swift is a powerful and intuitive programming language developed by Apple. It is used to create apps for iOS, macOS, watchOS, and so on. Swift code is concise yet expressive (easier to understand and write).Our Swift tutorial will guide you to learn Swift one step at a time.Swift source code and development builds are available for everyone.Swift programming is fast and powerful. Also, the source code is concise yet expressive. Swift code can be used along with the existing Objective-C projects."
     },
     {
       "id": "05",
       "picture": "https://blog.webico.vn/wp-content/uploads/2019/12/W-1.png",
       "name": "PHP",
-      "details": "Sint nisi quis qui Lorem commodo ipsum ullamco enim quis esse voluptate mollit voluptate. Cillum exercitation ad ipsum reprehenderit sit aliquip voluptate. Reprehenderit quis nostrud velit qui dolore amet. Excepteur exercitation labore amet consectetur.\r\n"
+      "details": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs). PHP is platform-independent. You don't have to have a particular OS to use it because it runs on every platform, whether it's Mac, Windows, or Linux.PHP is not hard to learn for absolute beginners. You can pick it up pretty if you already have programming knowledge.You can easily connect PHP to all Databases, relational and non-relational. So it can connect in no time to MySQL, Postgress, MongoDB, or any other database."
     }
   ]
