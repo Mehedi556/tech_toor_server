@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "picture": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+      "name": "JAVA",
+      "details": "Mollit ut occaecat Lorem in do sunt cillum. Consectetur est sit pariatur cupidatat irure ea mollit nisi id exercitation duis laboris. Nisi eiusmod duis in elit ipsum incididunt nostrud. Exercitation esse incididunt aliqua commodo dolore id labore cupidatat. Consequat laboris nulla non ad tempor amet laborum magna consequat cupidatat qui eu nulla. Non in anim qui labore cupidatat est magna fugiat proident laborum adipisicing cupidatat fugiat.\r\n"
+    },
+    {
+      "id": "02",
+      "picture": "https://www.datasciencecentral.com/wp-content/uploads/2021/10/9430449274-1280x720.png",
+      "name": "PYTHON",
+      "details": "Aliquip non voluptate anim consequat. Dolore officia sunt tempor labore ad ex ullamco. Non ex fugiat non voluptate reprehenderit pariatur mollit exercitation sunt cupidatat consectetur enim. Nostrud id voluptate do laborum ex reprehenderit occaecat dolore non. Adipisicing sit cillum non veniam ea dolor consequat enim nisi est ex velit incididunt fugiat. Ullamco ad amet veniam duis irure sunt irure dolore.\r\n"
+    },
+    {
+      "id": "03",
+      "picture": "https://i0.wp.com/windtux.com/wp-content/uploads/2020/05/c-cplus-inseguros.png?fit=800%2C533&ssl=1",
+      "name": "C++",
+      "details": "Velit labore nisi dolore velit sit aliquip. Tempor nisi non enim ad quis dolor et commodo est. Excepteur est laborum pariatur ex ea ad ullamco cillum officia reprehenderit duis nostrud anim nisi. Deserunt commodo reprehenderit laboris est anim qui magna laborum Lorem et. Aliquip eiusmod nisi non commodo non duis aliqua commodo incididunt elit et culpa exercitation. Consectetur eu incididunt deserunt nisi mollit magna magna ut elit. Officia cupidatat fugiat sunt anim.\r\n"
+    },
+    {
+      "id": "06",
+      "picture": "https://bestprogrammer.ru/wp-content/uploads/2020/08/JavaScript-1.jpg",
+      "name": "JavaScript",
+      "details": "Consequat ut dolor consequat ipsum veniam deserunt voluptate aliquip. Veniam ipsum reprehenderit est mollit culpa minim aliqua ipsum occaecat nulla aute sunt in duis. Et nulla occaecat mollit esse. Labore culpa labore commodo nisi tempor excepteur do quis enim irure qui aute magna.\r\n"
+    },
+    {
+      "id": "04",
+      "picture": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
+      "name": "SWIFT",
+      "details": "Fugiat consectetur consectetur ad reprehenderit nostrud mollit aliquip elit deserunt ea. Lorem excepteur magna cillum ad ullamco nulla amet eu ex id. Fugiat sunt velit sit dolore excepteur anim ut ipsum consequat reprehenderit enim irure exercitation qui.\r\n"
+    },
+    {
+      "id": "05",
+      "picture": "https://blog.webico.vn/wp-content/uploads/2019/12/W-1.png",
+      "name": "PHP",
+      "details": "Sint nisi quis qui Lorem commodo ipsum ullamco enim quis esse voluptate mollit voluptate. Cillum exercitation ad ipsum reprehenderit sit aliquip voluptate. Reprehenderit quis nostrud velit qui dolore amet. Excepteur exercitation labore amet consectetur.\r\n"
+    }
+  ]
